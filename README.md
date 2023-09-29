@@ -1,5 +1,5 @@
 # processing_p5_js_sketches
-Links to my Processing and p5.js sketches on Open Procesing.org
+Links to my Processing and p5.js sketches on Open Processing.org
 
 https://openprocessing.org/user/400302?o=3&view=sketches
 
